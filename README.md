@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   Previous iterations:
-  <a href="#" target="_blank">v1</a>
+  <a href="https://secret-sahil.github.io/v1-secret-sahil.github.io/" target="_blank">v1</a>
 </p>
 <p align="center">
   <a href="https://app.netlify.com/sites/mrsahil/deploys" target="_blank">
