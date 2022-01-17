@@ -46,7 +46,7 @@ const Head = ({ title, description, image }) => {
 
       <meta name="description" content={seo.description} />
       <meta name="image" content={seo.image} />
-
+      <meta name="keywords" content="mrsahil.in, Sahil, Sahil Kumar, software engineer, web developer, javascript, ptu blog, ptublog, d notifier, dnotifier, Sahil Bhardwaj" />
       <meta property="og:title" content={seo.title} />
       <meta property="og:description" content={seo.description} />
       <meta property="og:image" content={seo.image} />
@@ -59,7 +59,7 @@ const Head = ({ title, description, image }) => {
       <meta name="twitter:description" content={seo.description} />
       <meta name="twitter:image" content={seo.image} />
 
-      <meta name="google-site-verification" content="vIhbfGvs7vgQnF7ugBVr6q1_Gf-emt2bSQ5HvgOEhFQ" />
+      <meta name="google-site-verification" content="CQOrLWvRH_UUPbKvbGqZImvFaqejaY-COhHajl8N8Cw" />
     </Helmet>
   );
 };
