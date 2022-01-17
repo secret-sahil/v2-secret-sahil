@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: ' D-Notifier'
+title: 'D-Notifier'
 cover: './d-notifier.jpg'
 github: 'https://github.com/secret-sahil/D-Notifier-Extension'
 tech:
