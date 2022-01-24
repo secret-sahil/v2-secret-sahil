@@ -1,5 +1,5 @@
 ---
-date: '2020-12-10'
+date: '2021-12-10'
 title: 'IKGPTU BLOG'
 github: 'https://github.com/secret-sahil/ptublog-website'
 external: 'https://ptublog.in/'

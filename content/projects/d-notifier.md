@@ -4,10 +4,11 @@ title: 'D-Notifier'
 github: 'https://github.com/secret-sahil/D-Notifier-Extension'
 external: ''
 tech:
-  - VS Code
-  - XAMPP
+  - HTML
+  - CSS
+  - PHP
+  - JS
   - Canva
-  - Chrome Browser
 company: ''
 showInProjects: false
 ios: ''
