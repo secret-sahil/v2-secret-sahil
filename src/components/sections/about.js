@@ -157,7 +157,7 @@ const About = () => {
               <a href="https://ptu.ac.in/" target="_blank">IKGPTU (Main Campus).
               </a>{' '}
               Being creative from the start, I'm here too working on electronics, programming and
-              physical computing. Besides this I'm aslo a member of Institution's Innovation Council
+              physical computing. Besides this I'm also a member of Institution's Innovation Council
               (IIC) IKGPTU.
             </p>
 

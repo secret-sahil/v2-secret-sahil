@@ -65,7 +65,7 @@ const Hero = () => {
     <>
       <p>
         A versatile engineering student with a commitment to and experience of developing innovative
-        and creative software solutions. Currently, I’m focused on bilding android apps with Koltin and learning from {' '}
+        and creative software solutions. Currently, I’m focused on building android apps with Koltin and learning from {' '}
         <a href="https://developer.android.com/courses/android-basics-kotlin/course" target="_blank" rel="noreferrer">
           Google Developers
         </a>
