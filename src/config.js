@@ -19,9 +19,13 @@ module.exports = {
       url: 'https://www.linkedin.com/in/secret-sahil',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/secret-sahil',
+      name: 'Discord',
+      url: 'https://discord.com/invite/5SSfxcVK2w',
     },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/secret-sahil',
+    // },
   ],
 
   navLinks: [
