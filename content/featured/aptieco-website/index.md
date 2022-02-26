@@ -12,4 +12,4 @@ tech:
   - Bootstrap 5
 ---
 
-It's an online teaching platform on which studens can enroll into various courses and teachers can teach them online. I built this all by myself. This is having 4 type of user accounts that are Admin, editor, teacher & student that can view things accordingly.
+It's an online teaching platform made for [Aptieco](https://www.aptieco.com/) on which studens can enroll into various courses and teachers can teach them online. I built this all by myself. This is having 4 type of user accounts that are Admin, editor, teacher & student that can view and manage things accordingly.
