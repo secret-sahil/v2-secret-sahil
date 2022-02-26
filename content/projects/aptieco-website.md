@@ -1,6 +1,6 @@
 ---
 date: '2022-02-26'
-title: 'Aptieco Website''
+title: 'Aptieco Website'
 github: 'https://github.com/secret-sahil/aptieco-website'
 external: 'https://www.aptieco.com/'
 tech:

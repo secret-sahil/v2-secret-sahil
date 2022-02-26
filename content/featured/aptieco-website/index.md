@@ -3,7 +3,7 @@ date: '0'
 title: 'Aptieco Website'
 cover: './Aptieco_website.png'
 github: 'https://github.com/secret-sahil/aptieco-website'
-external: 'https://www.aptieco.com/'
+external: 'https://www.aptieco.com'
 tech:
   - HTML
   - PHP
