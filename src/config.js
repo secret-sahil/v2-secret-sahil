@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/secret-sahil',
+      url: 'https://www.instagram.com/secret.sahil',
     },
     {
       name: 'Twitter',
@@ -46,7 +46,7 @@ module.exports = {
       url: '/#contact',
     },
     {
-      name: 'Blog',
+      name: 'Pensieve',
       url: '/pensieve',
     },
   ],
