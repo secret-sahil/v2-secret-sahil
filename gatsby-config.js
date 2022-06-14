@@ -3,8 +3,8 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: 'Sahil Kumar',
-    description:'Sahil Kumar is a developer. Currently he is a B.tech (ECE) student, studying at IKGPTU (main campus).',
-    siteUrl: 'https://mrsahil.in', // No trailing slash allowed!
+    description: 'Sahil Kumar is a developer. Currently he is a B.tech (ECE) student, studying at IKGPTU (main campus).',
+    siteUrl: 'https://v2.mrsahil.in', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@secretsahil',
   },
