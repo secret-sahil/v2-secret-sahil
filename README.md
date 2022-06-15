@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://mrsahil.in/icons/icon-512x512.png" width="100" />
+  <img alt="Logo" src="https://v2.mrsahil.in/icons/icon-512x512.png" width="100" />
 </div>
 <h1 align="center">
   mrsahil.in - v2
